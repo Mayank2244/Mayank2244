@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%2C%20I'm%20Mayank%20%F0%9F%91%8B&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Science&descAlignY=58&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%2C%20I'm%20Mayank%20%F0%9F%91%8B&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Developer%20%7C%20BML%20Munjal%20University&descAlignY=58&descColor=8b949e" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+%2F+Deep+Learning+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%7C+React+%2B+Node.js;Data+Science+%26+Analytics+Explorer+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+%2F+Deep+Learning+Enthusiast+%F0%9F%A4%96;Carbon-Aware+LLM+Systems+Builder+%F0%9F%8C%B1;Full-Stack+Developer+%7C+React+%2B+Node.js;ET-AI+Hackathon+2026+Semi-Finalist+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -22,13 +20,14 @@
 
 ```python
 mayank = {
-    "name"       : "Mayank",
-    "role"       : "Student & Aspiring AI/ML Engineer",
-    "passion"    : ["Artificial Intelligence", "Deep Learning", "Data Science"],
-    "stack"      : ["Python", "React.js", "Node.js", "TensorFlow", "MongoDB"],
-    "learning"   : "Building intelligent full-stack applications",
-    "goal"       : "Land a role at a top product-based company 🎯",
-    "fun_fact"   : "I debug with print() and I'm proud of it 😄",
+    "name"        : "Mayank Sehgal",
+    "university"  : "BML Munjal University, Gurgaon",
+    "degree"      : "B.Tech CSE — 2023 to 2027",
+    "focus"       : ["AI/ML", "Deep Learning", "Generative AI", "Full-Stack Dev"],
+    "tech"        : ["Python", "React.js", "Node.js", "TensorFlow", "Firebase"],
+    "achievements": ["ET-AI Hackathon 2026 Semi-Finalist", "TechSparx.I Winner"],
+    "goal"        : "Build AI systems that actually matter 🌍",
+    "fun_fact"    : "Reduced LLM carbon emissions by 84% — yes, really 😎",
 }
 ```
 
@@ -41,8 +40,76 @@ mayank = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-4a1515283)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank2244)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanksehgal9671@gmail.com)
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 CarbonSense AI
+**Carbon-Aware LLM Orchestration System**
+`Aug 2025 – Jan 2026`
+
+> Reduced LLM carbon emissions by **84%** and inference cost by **77%** vs GPT-4
+
+- Real-time carbon-aware routing via RL
+- Multi-layer pipeline: Redis + ChromaDB + Neo4j RAG
+- 38% cache hit rate, 42% queries answered without heavy LLM
+
+`Python` `Redis` `ChromaDB` `Neo4j` `Reinforcement Learning`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Resume Screening System
+**Transformer-Based Hiring Engine**
+`May 2025 – July 2025`
+
+> Automated recruiter shortlisting using semantic embeddings
+
+- Transformer-based resume matching with cosine similarity
+- Hybrid scoring & ranking engine
+- Scalable REST API for batch upload & export
+
+`Python` `Transformers` `Cosine Similarity` `REST APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 GlobalInsight
+**Fake News Detection News App**
+`Jan 2025 – May 2025`
+
+> Android app with built-in AI fake news classifier
+
+- Real-time global headlines via Firebase
+- Fake news detection module for article credibility
+- Clean UI with bookmarks, filters & Firebase Auth
+
+`Java` `XML` `Firebase` `Android Studio`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 More Coming Soon...
+**Always building something new**
+
+- Exploring GenAI & LLM applications
+- Open to collaborations & hackathons
+- Check out my repositories below ⬇️
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -72,9 +139,18 @@ mayank = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases & Infra**
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6B21A8?style=for-the-badge&logo=databricks&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Tools**
 
@@ -82,6 +158,22 @@ mayank = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| 🏆 Achievement | Details |
+|:---|:---|
+| 🥇 **Winner** | TechSparx.I — Vision to Reality, Institute of Innovation & Entrepreneurship |
+| 🥈 **Semi-Finalist** | ET-AI Hackathon 2026 organized by The Economic Times |
+| 💻 **Hackathon Participant** | HACKED 4.0 at BML Munjal University |
+| 🔢 **Graph Theory Camp** | Completed under Codeforces Master Manas Kumar Verma — solved 9 advanced graph problems at AlgoUniversity |
 
 </div>
 
@@ -130,6 +222,6 @@ mayank = {
 
 *"The best way to predict the future is to create it." — Alan Kay*
 
-⭐ **If you like my work, consider giving a star to my repos!** ⭐
+⭐ **If you find my work interesting, drop a star on my repos!** ⭐
 
 </div>
